@@ -1,2 +1,2 @@
 # Terraform-cloud-GitHub
-Terraform cloud-GitHub Integration
+Terraform cloud-GitHub Integration.
